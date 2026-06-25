@@ -30,20 +30,11 @@
 <!-- ===================== ABOUT ===================== -->
 ### 🧑‍💻 About Me
 
-```yaml
-name:        Ankit Pandey
-role:        AI Agent & Full-Stack Developer
-education:   Computer Science Undergraduate
-focus:       Autonomous AI agents · Agent orchestration · MCP · Full-stack web
-currently:   Building multi-agent systems and shipping web apps
-mindset:     "Always learning, always building."
-```
-
-- 🤖 I build **autonomous AI agents** that decompose goals, call tools, and deliver results end-to-end.
-- 🌐 I ship **full-stack web apps** with **React, TypeScript, and Python**.
-- 🧩 Exploring the **Model Context Protocol (MCP)**, agent orchestration, and LLM tooling.
+- 🤖 I build **autonomous AI agents** that decompose goals, call tools, and deliver end-to-end.
+- 🌐 I ship **full-stack web apps** with React, TypeScript, and Python.
+- 🧩 Exploring **agent orchestration**, the **Model Context Protocol (MCP)**, and LLM tooling.
 - 🌱 Currently leveling up: advanced agent architectures, system design, and DevOps.
-- 💬 Ask me about **AI agents**, **web development**, or anything in my repos.
+- 💬 Ask me about **AI agents** or **web development** — or open an issue on any repo.
 
 ---
 
