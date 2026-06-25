@@ -101,20 +101,6 @@ mindset:     "Always learning, always building."
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-### 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|:----:|
-| 🚀 [**omniBox**](https://github.com/ankit25bcs10610/omniBox) | Assign any goal to an AI — it decomposes the task, spins up specialized agents, uses your tools, and delivers results. | `TypeScript` |
-| 🛠️ [**DevOps-Copilot**](https://github.com/ankit25bcs10610/DevOps-Copilot) | An AI copilot for DevOps workflows and automation. | `TypeScript` |
-| 🧠 [**CORTEX-AI**](https://github.com/ankit25bcs10610/CORTEX-AI) | AI-powered application exploring intelligent agent behavior. | `JavaScript` |
-| 🔌 [**MCP-REMOTE_SERVER**](https://github.com/ankit25bcs10610/MCP-REMOTE_SERVER) | A remote Model Context Protocol (MCP) server implementation. | `Python` |
-| 💰 [**FINANCE-TRACKER**](https://github.com/ankit25bcs10610/FINANCE-TRACKER) | Full-stack app to track and visualize personal finances. | `JavaScript` |
-| 🐚 [**CODECRAFTERS-SHELL-JAVA**](https://github.com/ankit25bcs10610/CODECRAFTERS-SHELL-JAVA) | A POSIX-style shell implemented in Java (CodeCrafters challenge). | `Java` |
-
----
-
 <!-- ===================== STATS ===================== -->
 ### 📊 GitHub Analytics
 
