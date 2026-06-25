@@ -1,16 +1,17 @@
 <!-- ===================== HEADER ===================== -->
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Ankit%20Pandey&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=22" width="100%" alt="header"/>
-</a>
+<h1 align="center">Hi 👋, I'm Ankit Pandey</h1>
+
+<h3 align="center">AI Agent &amp; Full-Stack Developer&nbsp; ·&nbsp; Computer Science Undergraduate</h3>
 
 <p align="center">
   <a href="https://github.com/ankit25bcs10610">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Shipping+full-stack+web+apps+%F0%9F%8C%90;CS+Undergrad+%7C+Always+learning+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8E2DE2&center=true&vCenter=true&width=720&height=42&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Shipping+full-stack+web+apps+%F0%9F%8C%90;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit25bcs10610&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/ankit25bcs10610?label=Followers&style=flat&color=8E2DE2" alt="followers" />
 </p>
 
@@ -130,7 +131,5 @@ mindset:     "Always learning, always building."
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/ankit25bcs10610">ankit25bcs10610</a> — let's build something great.</i>
+  <i>⭐️ Open to collaboration — let's build something great together.</i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" alt="footer"/>
