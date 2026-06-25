@@ -69,12 +69,23 @@ mindset:     "Always learning, always building."
     </td>
   </tr>
   <tr>
-    <td><b>Backend & AI</b></td>
+    <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP-8E2DE2?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agentic%20AI-8E2DE2?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -118,6 +129,15 @@ mindset:     "Always learning, always building."
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankit25bcs10610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+</p>
+
+---
+
+<!-- ===================== 3D CONTRIBUTION ===================== -->
+### 🧊 My Contributions in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
 </p>
 
 ---
