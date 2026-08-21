@@ -1,126 +1,127 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Ankit Pandey</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=00D8FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Ankit+Pandey%2C+AI+Agent+Engineer&duration=4000" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">AI Agent &amp; Full-Stack Developer&nbsp; ·&nbsp; Computer Science Undergraduate</h3>
-
-<p align="center">
-  <a href="https://github.com/ankit25bcs10610">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8E2DE2&center=true&vCenter=true&width=720&height=42&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Shipping+full-stack+web+apps+%F0%9F%8C%90;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=BITS+Pilani+%7C+Computer+Science+%7C+AI+Agents+%E2%80%A2+Full-Stack+%E2%80%A2+MCP+%26+LLM+Tooling" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit25bcs10610&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ankit25bcs10610?label=Followers&style=flat&color=8E2DE2" alt="followers" />
-</p>
-
-<!--
-  💡 Add your contact badges: paste real URLs below, then uncomment the block.
-  <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  </p>
--->
-
----
-
-<!-- ===================== ABOUT ===================== -->
-### 🧑‍💻 About Me
-
-- 🤖 I build **autonomous AI agents** that decompose goals, call tools, and deliver end-to-end.
-- 🌐 I ship **full-stack web apps** with React, TypeScript, and Python.
-- 🧩 Exploring **agent orchestration**, the **Model Context Protocol (MCP)**, and LLM tooling.
-- 🌱 Currently leveling up: advanced agent architectures, system design, and DevOps.
-- 💬 Ask me about **AI agents** or **web development** — or open an issue on any repo.
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-### 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Agentic%20AI-8E2DE2?style=flat-square&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ===================== STATS ===================== -->
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit25bcs10610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit25bcs10610&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit25bcs10610&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit25bcs10610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <a href="https://www.linkedin.com/in/ankit-pandey-5a28b9379/"><img src="https://img.shields.io/badge/LinkedIn-ankit--pandey-0099FF?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/ankit25bcs10610"><img src="https://img.shields.io/badge/GitHub-ankit25bcs10610-00D8FF?style=for-the-badge&logo=github" /></a>
+  <a href="https://huggingface.co/pandeyankit84"><img src="https://img.shields.io/badge/HuggingFace-pandeyankit84-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ankit25bcs10610&style=for-the-badge&color=00D8FF" />
 </p>
 
 ---
 
-<!-- ===================== 3D CONTRIBUTION ===================== -->
-### 🧊 My Contributions in 3D
+## About Me
+
+```text
+• AI Agent Engineer      → Multi-agent orchestration, tool-calling, and agent safety rails.
+• Full-Stack Developer   → Next.js / React / TypeScript on the front, FastAPI & Node on the back.
+• Applied ML             → Data-centric model building, evaluation, and reproducible datasets.
+• Infra & DevOps         → CI/CD, observability, containerised deploys, incident automation.
+• Protocols & Tooling    → Model Context Protocol (MCP) servers, LLM gateways, agent runtimes.
+• Open Source            → Publishing datasets, demos, and agent tooling in the open.
+• Currently              → Computer Science undergrad, BITS Pilani.
+```
+
+> I like building systems that actually run — agents that decompose real goals, call real tools,
+> and ship verifiable results. Less demo, more production.
+
+---
+
+## Tech Stack & Tools
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,nodejs,fastapi,tailwind,postgres,docker,git,github,githubactions,vercel,linux,vscode" />
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+## My GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit25bcs10610&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit25bcs10610&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit25bcs10610&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit25bcs10610&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit25bcs10610&theme=nord_dark" />
+</div>
+
 <p align="center">
-  <i>⭐️ Open to collaboration — let's build something great together.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit25bcs10610&theme=react-dark&hide_border=true&radius=10" width="100%" />
 </p>
+
+---
+
+## Achievements
+
+→ **Adaption AutoScientist Challenge — data-centric AI submission:**
+- Built two original, self-verifying datasets and models: a function-calling model trained to know when *not* to call a tool, and a bilingual (English/Hindi) multimodal chart-reader.
+- Published the datasets on **Hugging Face** and **Kaggle**, with a live demo on **Hugging Face Spaces** and Vercel.
+
+→ **CrewAI Multi-Agent Research System — production-grade agent pipeline:**
+- Four cooperating agents (Researcher → Analyst → Writer → Verifier) that turn a plain-language query into a cited, downloadable report, with a real-time dashboard tracking every stage.
+- Hardened past MVP scope: job cancellation/retry, JWT revocation, per-report cost tracking, request tracing, Alembic migrations, and CI on every push.
+
+→ **OmniPotent — autonomous infrastructure intelligence platform:**
+- Multi-agent incident resolution with deterministic safety controls and deep observability integration, backed by CI and coverage reporting.
+
+→ **CodeCrafters — "Build Your Own Shell" in Java:**
+- Implemented a POSIX-style shell from scratch: parsing, quoting, builtins, redirection, and process execution.
+
+→ **Open-source AI tooling:**
+- Shipped a remote **Model Context Protocol (MCP)** server, an autonomous triage agent, and experiments with LLM gateway routing across 1,600+ models.
+
+<!-- Add awards, scholarships, hackathon placements or conference selections here as you earn them. -->
+
+---
+
+## Featured Projects
+
+| Project | Description | Repo & Demo Link |
+|--------|-------------|-----------|
+| Adaption AI Lab → Data-Centric AutoScientist | Two models built around original, self-verifying datasets: a function-calling model that knows when *not* to call a tool, and an English/Hindi multimodal chart-reader. Datasets published to Hugging Face and Kaggle with a live inference demo. | [🔗 Repo](https://github.com/ankit25bcs10610/adaption-ai-lab) · [🔗 Demo](https://autoscientist-toolcaller.vercel.app) |
+| CrewAI → Multi-Agent Research System | Four cooperating CrewAI agents (Researcher → Analyst → Writer → Verifier) turn a plain-language query into a cited, downloadable report, with a real-time dashboard to track every stage as it happens. Includes job cancellation/retry, JWT revocation, cost tracking and request tracing. | [🔗 Repo](https://github.com/ankit25bcs10610/CrewAI-Multi-Agent-Research--System) |
+| MCP Remote Server | A remote **Model Context Protocol** server implementation — exposes tools and resources over the wire so any MCP-compatible client can discover and call them. | [🔗 Repo](https://github.com/ankit25bcs10610/MCP-REMOTE_SERVER) |
+| Triage Agent | Autonomous agent for automated triage: classifies incoming work, routes it, and acts on it without a human in the loop for the routine cases. | [🔗 Repo](https://github.com/ankit25bcs10610/TRIAGE-AGENT) |
+| Finance Tracker | Full-stack application to track, categorise and visualise personal finances. | [🔗 Repo](https://github.com/ankit25bcs10610/FINANCE-TRACKER) |
+| CodeCrafters Shell (Java) | A POSIX-style shell written from scratch in Java — tokenising, quoting, builtins, redirection and process execution. | [🔗 Repo](https://github.com/ankit25bcs10610/CODECRAFTERS-SHELL-JAVA) |
+
+---
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ankit25bcs10610&theme=onedark&margin-w=10&row=1&column=8&no-frame=true)
+
+---
+
+## Terminal Mode
+
+```bash
+> whoami
+Ankit Pandey | Computer Science @ BITS Pilani
+
+> pwd
+~/work/ai-agents
+
+> ls
+Agents/
+MCP/
+Full-Stack/
+Applied-ML/
+DevOps/
+
+> cat focus.txt
+Multi-Agent Orchestration
+Model Context Protocol
+LLM Tooling & Evaluation
+Full-Stack Product Engineering
+
+> cat goals.txt
+Ship agents that survive production.
+Contribute to Open Source.
+Build in public, measure everything.
+```
