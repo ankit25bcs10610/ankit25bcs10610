@@ -69,9 +69,6 @@
 → **OmniPotent — autonomous infrastructure intelligence platform:**
 - Multi-agent incident resolution with deterministic safety controls and deep observability integration, backed by CI and coverage reporting.
 
-→ **CodeCrafters — "Build Your Own Shell" in Java:**
-- Implemented a POSIX-style shell from scratch: parsing, quoting, builtins, redirection, and process execution.
-
 → **Open-source AI tooling:**
 - Shipped a remote **Model Context Protocol (MCP)** server, an autonomous triage agent, and experiments with LLM gateway routing across 1,600+ models.
 
@@ -85,6 +82,9 @@
 |--------|-------------|-----------|
 | Adaption AI Lab → Data-Centric AutoScientist | Two models built around original, self-verifying datasets: a function-calling model that knows when *not* to call a tool, and an English/Hindi multimodal chart-reader. Datasets published to Hugging Face and Kaggle with a live inference demo. | [🔗 Repo](https://github.com/ankit25bcs10610/adaption-ai-lab) · [🔗 Demo](https://autoscientist-toolcaller.vercel.app) |
 | CrewAI → Multi-Agent Research System | Four cooperating CrewAI agents (Researcher → Analyst → Writer → Verifier) turn a plain-language query into a cited, downloadable report, with a real-time dashboard to track every stage as it happens. Includes job cancellation/retry, JWT revocation, cost tracking and request tracing. | [🔗 Repo](https://github.com/ankit25bcs10610/CrewAI-Multi-Agent-Research--System) |
+| Proxim → AI Conversation Training Lab | Browser-based lab where pharma sales reps rehearse live conversations with AI-simulated healthcare professionals. Streamed dialogue and ElevenLabs speech drive viseme keyframes on a Three.js 3D avatar, keeping voice and lip motion tightly coupled — no native binaries, fully containerised. | 🔒 Private repo |
+| omniBox → Autonomous Goal Delegation | Assign any goal to an AI — it decomposes the task, spins up specialised agents, uses your tools, and delivers results. No workflows to define, no steps to configure. Multi-provider (Groq / Anthropic) with Tavily, Slack and GitHub integrations. | [🔗 Repo](https://github.com/ankit25bcs10610/omniBox) |
+| Cortex-AI → Intelligent Personal Workspace | Full-stack workspace unifying tasks, habits, goals and learning behind an AI coach. Recurring-task engine, streak tracking, gamified XP/levels, calendar time-blocking and an AI auto-planner, on React + Vite + Zustand with an Express API and Firebase Auth. | [🔗 Repo](https://github.com/ankit25bcs10610/CORTEX-AI) |
 | MCP Remote Server | A remote **Model Context Protocol** server implementation — exposes tools and resources over the wire so any MCP-compatible client can discover and call them. | [🔗 Repo](https://github.com/ankit25bcs10610/MCP-REMOTE_SERVER) |
 | Triage Agent | Autonomous agent for automated triage: classifies incoming work, routes it, and acts on it without a human in the loop for the routine cases. | [🔗 Repo](https://github.com/ankit25bcs10610/TRIAGE-AGENT) |
 | Finance Tracker | Full-stack application to track, categorise and visualise personal finances. | [🔗 Repo](https://github.com/ankit25bcs10610/FINANCE-TRACKER) |
