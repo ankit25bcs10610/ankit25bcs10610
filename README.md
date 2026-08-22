@@ -59,12 +59,34 @@
 ## My Contributions in 3D
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="90%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph — night view" width="90%" />
 </p>
 
 <p align="center">
-  <sub>Rebuilt every day by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> — see <a href="./profile-3d-contrib">all ten variants</a>.</sub>
+  <sub>Every commit I've ever pushed, rendered as a skyline — rebuilt daily by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><b>Night Rainbow</b><br/><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Night rainbow" width="100%" /></td>
+    <td align="center" width="50%"><b>Night Green</b><br/><img src="./profile-3d-contrib/profile-night-green.svg" alt="Night green" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Git Block</b><br/><img src="./profile-3d-contrib/profile-gitblock.svg" alt="Git block" width="100%" /></td>
+    <td align="center"><b>Green</b><br/><img src="./profile-3d-contrib/profile-green.svg" alt="Green" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Green — animated</b><br/><img src="./profile-3d-contrib/profile-green-animate.svg" alt="Green animated" width="100%" /></td>
+    <td align="center"><b>Seasons</b><br/><img src="./profile-3d-contrib/profile-season.svg" alt="Seasons" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Seasons — animated</b><br/><img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasons animated" width="100%" /></td>
+    <td align="center"><b>Southern Seasons</b><br/><img src="./profile-3d-contrib/profile-south-season.svg" alt="Southern seasons" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Southern Seasons — animated</b><br/><img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Southern seasons animated" width="50%" /></td>
+  </tr>
+</table>
 
 ---
 
