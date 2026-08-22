@@ -56,6 +56,18 @@
 
 ---
 
+## My Contributions in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="90%" />
+</p>
+
+<p align="center">
+  <sub>Rebuilt every day by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> — see <a href="./profile-3d-contrib">all ten variants</a>.</sub>
+</p>
+
+---
+
 ## Achievements
 
 → **Adaption AutoScientist Challenge — data-centric AI submission:**
